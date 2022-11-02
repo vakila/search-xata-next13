@@ -9,7 +9,6 @@ export default async function handler(
   res: NextApiResponse
 ) {
   const term = req.query.term as string;
-  console.log(term);
 
   const records = await xata.search.all(term, {
     tables: [
@@ -22,6 +21,5 @@ export default async function handler(
     prefix: "phrase",
   });
 
-  console.log(records.map(r => r.record.name));
   res.status(200).json(records.map(r => r.record));
 }
