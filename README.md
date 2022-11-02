@@ -1,3 +1,22 @@
+# Searching for retro games with Xata & Next 13
+
+Companion code for the tutorial: [link TBA]
+
+This is a fullstack web app that allows us to search a collection of retro games data to find the old-school console games of our dreams.
+
+In this app we use:
+- [Xata](https://xata.io)'s serverless platform to store & retrieve data without needing a database
+- React Server & Client Components using [Next.js 13](https://nextjs.org/blog/next-13) and its `app/` directory
+- Full-text search with boosting via the Xata SDK
+
+See also:
+- Written tutorial [link TBA]
+- Livestream [link TBA]
+- [search-retro-games](https://search-retro-games.vercel.app), an enhanced version of this app ([source](https://github.com/vakila/search-retro-games))
+- [letsplayretro.games](https://letsplayretro.games), an even more full-featured site by [Sara Vieira](https://github.com/saravieira) ([source](https://github.com/saravieira/lets-play-retro-games))
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
