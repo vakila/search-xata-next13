@@ -10,9 +10,8 @@ In this app we use:
 - Full-text search with boosting via the Xata SDK
 
 See also:
-- Tutorial: [xata.io/blog/search-retro-games](https://xata.io/blog/search-retro-games)
-- Livestream [link TBA]
-- [search-retro-games](https://search-retro-games.vercel.app), an enhanced version of this app ([source](https://github.com/vakila/search-retro-games))
+- Tutorial on [dev.to](https://dev.to/anjanavakil/searching-for-retro-games-with-next-13-xata-4e5g)
+- Livestream on [twitch.tv/AnjanaVakil](https://twitch.tv/anjanavakil)- [search-retro-games](https://search-retro-games.vercel.app), an enhanced version of this app ([source](https://github.com/vakila/search-retro-games))
 - [letsplayretro.games](https://letsplayretro.games), an even more full-featured site by [Sara Vieira](https://github.com/saravieira) ([source](https://github.com/saravieira/lets-play-retro-games))
 
 ---
